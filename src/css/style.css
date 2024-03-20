@@ -1,0 +1,172 @@
+
+.sedgwick-ave display-regular {
+    font-family: "Sedgwick Ave Display", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+    .julius-sans one-regular {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+  }
+  .piedra-regular {
+    font-family: "Piedra", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .ruluko-regular {
+    font-family: "Ruluko", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .desktop-1,
+.desktop-1 * {
+    box-sizing: border-box;
+}
+
+.desktop-1 {
+    background: linear-gradient(180deg, rgba(254, 211, 255, 1.00) 0%, rgba(184, 0, 188, 1.00) 100%);
+    height: 1024px;
+    width: 1450kpx;
+    position: relative;
+    overflow: hidden;
+}
+
+.bola-1 {
+    width: 578px;
+    height: 552px;
+    position: absolute;
+    left: -110px;
+    top: -40px;
+    object-fit: cover;
+}
+
+.goleira-1 {
+    width: 512.78px;
+    height: 575px;
+    position: absolute;
+    left: 942.97px;
+    top: 512px;
+    transform-origin: 0 0;
+    transform: rotate(1.093deg) scale(1, 1);
+    object-fit: cover;
+}
+
+.group-1 {
+    position: absolute;
+    inset: 0;
+}
+
+.letra-a-1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1318px;
+    top: 29.78px;
+    transform-origin: 0 0;
+    transform: rotate(-0.895deg) scale(1, 1);
+    object-fit: cover;
+}
+
+.leta-l-1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1354px;
+    top: 55px;
+    object-fit: cover;
+}
+
+.escolinha-de-futsal {
+    color: #000000;
+    text-align: left;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 64px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 490px;
+    top: 80px;
+}
+
+.feminino {
+    color: #b800bc;
+    text-align: center;
+    font-family: 'Piedra', sans-serif;
+    font-size: 64px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 602px;
+    top: 157px;
+    width: 403px;
+    height: 248px;
+}
+
+.a-partir-de-13-anos {
+    color: #000000;
+    text-align: center;
+    font-family: 'Ruluko', sans-serif;
+    font-size: 48px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 243px;
+    top: 444px;
+    width: 450px;
+    height: 136px;
+}
+
+.informa-es-992302408 {
+    color: #000000;
+    text-align: center;
+    font-family: 'Ruluko', sans-serif;
+    font-size: 48px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 243px;
+    top: 538px;
+    width: 575px;
+    height: 84px;
+}
+
+.treinadora-ana-luiza {
+    color: #000000;
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', sans-serif;
+    font-size: 48px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 512px;
+    top: 315px;
+    width: 506px;
+    height: 57px;
+}
+
+.lugar-de-mulher-aonde-ela-quiser {
+    color: #000000;
+    text-align: center;
+    font-family: 'Sedgwick Ave Display', sans-serif;
+    font-size: 48px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 124px;
+    top: 824px;
+}
+
+.local-gin-sio-bezerr-o {
+    color: #000000;
+    text-align: center;
+    font-family: 'Ruluko', sans-serif;
+    font-size: 48px;
+    line-height: 120.83%;
+    font-weight: 400;
+    position: absolute;
+    left: 243px;
+    top: 639px;
+}
